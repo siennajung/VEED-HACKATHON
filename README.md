@@ -2,7 +2,7 @@
 
 # 🚀 LIVE VERSION
 
-# ➡️ https://agentclub-git-main-jung-sunjins-projects.vercel.app/
+# ➡️ https://agentclub.vercel.app/
 
 A Next.js 16 app that turns a single prompt into a plan of specialized AI agents, runs them
 (optionally with live web search), and renders the results as talking-avatar videos via VEED's
